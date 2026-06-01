@@ -33,6 +33,12 @@ chmod +x install.sh
 chmod +x uninstall.sh
 ./uninstall.sh
 ```
+## Tested on:
+- Parrot OS
+- KDE Plasma
+- Wayland
+- Broadcom 5880 Smart Card Reader
+```
 
 ## License
 
